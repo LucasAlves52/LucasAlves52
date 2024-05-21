@@ -14,6 +14,7 @@
 **alves2504lucas@gmail.com**
 
 **@lukkas_0452 👽**
-“A vida é um processo constante de morrer.”  Arthur Schopenhauer.
+
+** _A vida é um processo constante de morrer.”**_ Arthur Schopenhauer.
 
 ![](https://media.tenor.com/2sSwKrg7HvoAAAAM/thanks-awesome.gif)
