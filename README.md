@@ -1,10 +1,10 @@
 ##BEM VINDO AO MEU PERFIL 💙💫
 
-Meu nome é Lucas Alves.
+Meu nome é Lucas Alves.🤴
 
 °Estudante do [Alura](https://wwww.alura.com.br).
 
-°Desenvolvedor no P5js e Scratch.
+°Desenvolvedor no P5js e Scratch.🐛💻
 
 °Espaço para me organizar.
 
@@ -13,6 +13,6 @@ Meu nome é Lucas Alves.
 
 alves2504lucas@gmail.com
 
-@lukkas_0452
+@lukkas_0452 👽
 
 ![](https://media.tenor.com/2sSwKrg7HvoAAAAM/thanks-awesome.gif)
