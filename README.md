@@ -1,16 +1,18 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙💫
 
-<!--
-**LucasAlves52/LucasAlves52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Lucas Alves.
 
-Here are some ideas to get you started:
+°Estudante do [Alura](https://wwww.alura.com.br).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+°Desenvolvedor no P5js e Scratch.
+
+°Espaço para me organizar.
+
+### ENTRE EM CONTATO COMIGO 📭
+00001123844732sp@al.educacao.sp.gov.br 
+
+alves2504lucas@gmail.com
+
+@lukkas_0452
+
+![](https://media.tenor.com/2sSwKrg7HvoAAAAM/thanks-awesome.gif)
