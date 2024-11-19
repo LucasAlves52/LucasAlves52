@@ -5,7 +5,8 @@
 ° **Estudante do [Alura](https://wwww.alura.com.br).**
 
 ° **Desenvolvedor no P5js e Scratch.🐛💻**
-**Tecnico em Redes de Computadores**
+
+**💻Tecnico em Redes de Computadores💻**
 
 ° **Espaço para me organizar.**
 
