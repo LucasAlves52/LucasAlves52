@@ -11,8 +11,11 @@
 
 ### ENTRE EM CONTATO COMIGO 📭
 **00001123844732sp@al.educacao.sp.gov.br**
+
 **alves2504lucas@gmail.com**
+
 **redestl027@gmail.com**
+
 **@lukkas_0452**
 
 *👽*
